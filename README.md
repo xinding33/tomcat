@@ -1,4 +1,6 @@
 ## Welcome to Apache Tomcat!
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Ftomcat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Ftomcat?ref=badge_shield)
+
 
 ### What Is It?
 
@@ -53,6 +55,9 @@ Please see [RUNNING.txt](RUNNING.txt) for more info.
 ### Licensing
 
 Please see [LICENSE](LICENSE) for more info.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Ftomcat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Ftomcat?ref=badge_large)
 
 ### Support and Mailing List Information
 
